@@ -1,0 +1,44 @@
+.facebook{
+    background-color: rgb(56, 91, 152);
+    padding: 2px;
+   
+
+}
+.width{
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(red, green, blue);
+    
+
+}
+input[type=text] {
+    background-color:rgb(245, 246, 247);
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 22px;
+
+
+    
+  }
+.tet{
+    font-size: large;
+
+
+}
+.ppt{
+    
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.hh3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    margin: auto;
+
+    
+}
+.bdy{
+    background-color: rgb(250, 246, 246);
+
+
+}
